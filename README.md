@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou a Fernanda Oliveira 👩‍💻
 
-<!--
-**Fernanda0liveira/Fernanda0liveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Formação
+- Graduanda em Ciência da Computação  
+- Estudando linguagem C  
 
-Here are some ideas to get you started:
+##  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 20px 0;">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fernanda0liveira&show_icons=true&theme=jolly&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda0liveira&layout=compact&theme=jolly&hide_border=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias  
+<div style="margin: 10px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/>
+</div>
+
+
+## 📫 Contato  
+<div style="display: flex; gap: 10px;">
+  <a href="mailto:britolifernanda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fernandabritodeoliveira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
