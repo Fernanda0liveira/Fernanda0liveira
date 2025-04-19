@@ -1,4 +1,4 @@
-# Olá! Eu sou a Fernanda Oliveira 👩‍💻
+# Olá! Eu sou a Fernanda Oliveira 
 
 ## 📚 Formação
 - Graduanda em Ciência da Computação  
