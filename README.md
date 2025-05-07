@@ -1,7 +1,7 @@
 # Olá! Eu sou a Fernanda Oliveira 
 
 ## 📚 Formação
-- Graduanda em Ciência da Computação  
+- Cursando bacharelado em Ciência da Computação  
 - Estudando linguagem C  
 
 ##  
